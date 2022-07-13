@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'Roboto-Regular';
+  src: url('../assets/fonts//Roboto/Roboto-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Roboto-Black';
+  src: url('../assets/fonts//Roboto/Roboto-Black.ttf') format('truetype');
+}
+
+:root {
+  /* ------------ Colors ------------ */
+  --clr-white: #ffffff;
+  --clr-black: #000000;
+  --clr-yellow: #FFBF00;
+  --clr-dark-blue: #000080;
+  --clr-grey: #D9D9D9;
+
+  /* ------------ Fonts ------------ */
+  --fnt-regular: 'Roboto-Regular';
+  --fnt-dark: 'Roboto-Black';
+}
